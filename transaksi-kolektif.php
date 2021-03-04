@@ -67,17 +67,6 @@
                     </div>
                   </div>
 
-                  <div class="form-group">
-                    <label>Tanggal Pembayaran:</label>
-
-                    <div class="input-group">
-                      <div class="input-group-prepend">
-                        <span class="input-group-text"><i class="far fa-calendar-alt"></i></span>
-                      </div>
-                      <input type="text" class="form-control" data-inputmask-alias="datetime" data-inputmask-inputformat="dd/mm/yyyy" required data-mask>
-                    </div>
-                  </div>
-
                   <button class="btn btn-primary float-right" onclick="insert()">Tambah</button>
 
               </div>
@@ -98,6 +87,8 @@
                             <tbody>
                             </tbody>
                         </table>
+
+                        <button class="btn btn-primary float-right mt-3" onclick="">Submit</button>
                     </div>
                 </div>
             </div>
