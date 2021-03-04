@@ -46,28 +46,28 @@
             </li>
 
             <li class="nav-item">
-                <a href="./index.html" class="nav-link">
+                <a href="#" class="nav-link">
                 <i class="nav-icon fas fa-users"></i>
                   <p>Pelanggan</p>
                 </a>
             </li>
 
             <li class="nav-item">
-                <a href="./index.html" class="nav-link">
+                <a href="#" class="nav-link">
                 <i class="nav-icon fas fa-users"></i>
                   <p>Pengguna</p>
                 </a>
             </li>
 
             <li class="nav-item">
-                <a href="./index.html" class="nav-link">
+                <a href="#" class="nav-link">
                 <i class="nav-icon fas fa-chart-bar"></i>
                   <p>Laporan</p>
                 </a>
             </li>
 
             <li class="nav-item">
-                <a href="./index.html" class="nav-link">
+                <a href="#" class="nav-link">
                 <i class="nav-icon fas fa-sign-out-alt"></i>
                   <p>Logout</p>
                 </a>
