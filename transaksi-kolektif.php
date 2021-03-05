@@ -3,6 +3,7 @@
 <body class="hold-transition sidebar-mini layout-fixed">
 <div class="wrapper">
 
+  <?php require 'navbar.php'; ?>
   <?php require 'sidebar.php'; ?>
 
   <div class="content-wrapper">

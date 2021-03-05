@@ -1,8 +1,8 @@
 <footer class="main-footer">
     <div class="float-right d-none d-sm-block">
-      <b>Version</b> 3.1.0-rc
+    Dashboard Template AdminLTE <b>Version 3.1.0-rc</b> 
     </div>
-    <strong>Copyright &copy; 2014-2020 <a href="https://adminlte.io">AdminLTE.io</a>.</strong> All rights reserved.
+    <strong>Copyright &copy; 2021 <a href="#">Luthor</a>.</strong>
   </footer>
 
   <!-- Control Sidebar -->

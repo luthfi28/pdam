@@ -3,6 +3,7 @@
 <body class="hold-transition sidebar-mini layout-fixed">
 <div class="wrapper">
 
+  <?php require 'navbar.php'; ?>
   <?php require 'sidebar.php'; ?>
 
   <div class="content-wrapper">
@@ -79,7 +80,7 @@
                   </div>
 
                   <button class="btn btn-primary float-right ml-2" type="submit">Submit</button>
-                  <button class="btn btn-danger float-right mr-2" type="submit">Cancel</button>
+                  <button class="btn btn-secondary float-right mr-2" type="reset">Reset</button>
                 </form>
 
               </div>
