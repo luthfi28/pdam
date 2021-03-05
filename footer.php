@@ -13,12 +13,9 @@
 </div>
 <!-- ./wrapper -->
 
-  <!-- jQuery -->
   <script src="../../plugins/jquery/jquery.min.js"></script>
-  <!-- Bootstrap 4 -->
   <script src="../../plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <!-- InputMask -->
   <script src="../../plugins/moment/moment.min.js"></script>
   <script src="../../plugins/inputmask/jquery.inputmask.min.js"></script>
-  <!-- AdminLTE App -->
+  <script src="../../plugins/datatables/jquery.dataTables.js"></script>
   <script src="../../dist/js/adminlte.min.js"></script>
